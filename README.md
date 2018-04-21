@@ -4,8 +4,10 @@
 
 This is an Amazon-like storefront app created with the MySQL skills, node js and javascript skills. This simple app takes in orders from customers and depletes the stock from the store's inventory. 
 
-Please find a link to a video that explains how this works.
+Please find a link to a power power presentation video that explains how this works.
+Please download the presentation first to watch the video.
 
+https://drive.google.com/file/d/19LIE_HiIgoxL0M9uRpS8m9Q_roSvCyVp/view?usp=sharing
 
 ## Basic Functionality 
 
